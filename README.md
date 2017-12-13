@@ -1,6 +1,6 @@
 # my-test
 Workshop test repo  
-#Terminology learned today:  
+# Terminology learned today:  
 *Commit  
 *Branch  
 *Fork  
